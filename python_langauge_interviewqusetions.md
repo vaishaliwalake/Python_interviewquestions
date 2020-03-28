@@ -11,9 +11,11 @@ Python is a cross-platform language, i.e., a Python program written on a Windows
 Python is literally a general-purpose language, i.e., Python finds its way in various domains such as web application development, automation, Data Science, Machine Learning, and more.
 
 Q3.What is the purpose of PYTHONPATH environment variable?
+
 PYTHONPATH has a role similar to PATH. This variable tells Python Interpreter where to locate the module files imported into a program. It should include Python source library directory and the directories containing Python source code. PYTHONPATH is sometimes preset by Python Installer.
 
 Q.4 Which data types are supported in Python?
+
 Python has five standard data types:
 1.Numbers
 2.Strings
@@ -44,4 +46,4 @@ However, there is indeed a module named ‘array’ in Python, which is used or 
 Following are some of the differences between Python arrays and Python lists.
 Arrays can only store homogeneous data (data of the same type).	Lists can store heterogeneous and arbitrary data.
 Since only one type of data can be stored, arrays use memory for only one type of objects. Thus, mostly, arrays use lesser memory than lists.	Lists can store data of multiple data types and thus require more memory than arrays.
-The length of an array is pre-fixed while creating it, so more elements cannot be added.	Since the length of a list is not fixed, appending items to it is possible.
+The length of an array is pre-fixed while creating it, so more elements cannot be added.Since the length of a list is not fixed, appending items to it is possible.
