@@ -1,4 +1,4 @@
-Q.1. What is Python?
+** Q.1. What is Python?** ** 
 
 Python is a high-level, interpreted, interactive, and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently, whereas the other languages use punctuation, and it has fewer syntactical constructions than the other language.
 
